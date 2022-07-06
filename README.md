@@ -1,4 +1,4 @@
-# Generate Themes
+# Create colour styles from swatches
 
 ## Development guide
 
